@@ -1,0 +1,50 @@
+body {
+	font-family: Helvetica;
+	font-size: 8pt;
+}
+
+h3 {
+	font-size: 18pt;
+	margin: 5px 12px 12px 0px;
+}
+
+li {
+	list-style: none;
+	font-style: italic;
+}
+
+ul {
+	padding:0px;
+}
+
+span {
+	font-style: normal;
+	font-weight: bold;
+}
+
+.subtext-italic {
+	font-style: italic;
+	margin-top: 15px;
+}
+
+.cardstyle {
+	margin: 80px auto;
+	width: 300px;
+	box-shadow: 5px 10px 8px rgba(0,0,0,0.15);
+	border-color: #888888;
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px
+}
+
+.card-image {
+	width:300px;
+	margin-bottom: 10px;
+}
+
+.sub-cardstyle {
+	border-color: #888888;
+	border-style: solid;
+	border-width: 1px;
+	padding: 0px 10px;
+}
